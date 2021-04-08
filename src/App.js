@@ -49,7 +49,7 @@ const App = () => {
 
     setTasks([...tasks, data]);
 
-    // const id = Math.floor(Math.random() * 10000) + 1
+    // const id = Math.floor(Math.random() * 10000) + 2
     // const newTask = { id, ...task }
     // setTasks([...tasks, newTask])
   };
